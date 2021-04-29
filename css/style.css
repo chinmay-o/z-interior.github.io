@@ -328,7 +328,8 @@ i { color: #9a9a9a; margin:0}
 .bg-fast-green{ background: #00ff97 !important}
 .bg-fast-blue { background: #00efff !important}
 .bg-fast-blue-green-gradiant { background: #00efff; background: -moz-linear-gradient(-45deg, #00efff 0%, #00ff97 100%); background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#00efff), color-stop(100%,#00ff97)); background: -webkit-linear-gradient(-45deg, #00efff 0%,#00ff97 100%); background: -o-linear-gradient(-45deg, #00efff 0%,#00ff97 100%); background: -ms-linear-gradient(-45deg, #00efff 0%,#00ff97 100%); background: linear-gradient(135deg, #00efff 0%,#00ff97 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00efff', endColorstr='#00ff97',GradientType=1 ); }
-.bg-crimson-red { background: #01844 !important}
+/* .bg-crimson-red { background: #e31d3b !important} */
+.bg-crimson-red { background: #001844 !important}
 .bg-deep-green {background: #1acd7b !important; }
 .bg-deep-green2{background: #7ebaa1 !important;}
 .bg-deep-green-dark{background: #04b966 !important;}
